@@ -1,2 +1,2 @@
-# hg-consultancy
-Hire guide consultancy service
+# hg-services
+Hire guide services.
